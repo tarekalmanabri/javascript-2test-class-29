@@ -17,10 +17,10 @@ const myFunction = () => {
 myFunction();
 ```
 
-Question 2:
+## Question 2:
 
 Explain what and why would be logged on the console?
-
+```js
    function parent() {
      var hoisted = "I'm a variable";
      function hoisted() {
@@ -29,8 +29,9 @@ Explain what and why would be logged on the console?
      return hoisted(); 
    }
    console.log(parent());
-   
-Question 3:
+```
+
+## Question 3:
 Create a function, called injectBooksToDOM, that:
       - Takes 1 argument: an array of objects
       - Loops over the array
@@ -50,12 +51,12 @@ Create a function, called injectBooksToDOM, that:
                   bookName: "Clean Code",
                   author: "Robert Cecil Martin",
                   coverURL:
-Question 4:
+## Question 4:
 What's the output for this snippet? Is the output deterministic (always the same) or might it depend on the browser
 we run this in? 
 Explain your answer in less than 150 words. (The 'yes or no' answer doesn't really matter to us, 
 the explanation why is the important part)
-
+```js
 function test() {
     console.log('one');
     setTimeout(function() {
@@ -73,5 +74,4 @@ function test() {
     console.log('six');
 }
 test();
-
-
+```
