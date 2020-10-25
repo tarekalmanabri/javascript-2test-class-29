@@ -1,9 +1,10 @@
-Question 1:
+## Question 1:
 
 Explain what and why will be logged on the console if we run this code snippet?
 
 Bonus: explain what and why will be logged on the console if we used let instead of var inside the for loop?
 
+```js
 const myFunction = () => {
   const arr = [10, 12, 15, 21];
   for (var i = 0; i < arr.length; i++) {
@@ -14,6 +15,7 @@ const myFunction = () => {
 };
 
 myFunction();
+```
 
 Question 2:
 
