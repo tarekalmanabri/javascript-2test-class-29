@@ -19,10 +19,9 @@ This test lasts 1 hour.
 1. **Keep calm**
 2. **Read** the task description carefully
 3. **Divide** the task in small, functional steps and then execute each step
-4. **Study** the API documentation to find what you need
-5. If you feel stuck **move on** to the next task
-6. You are **allowed to use Google** 
-7. TEST YOUR CODE BEFORE YOU SUBMIT IT!
+4. If you feel stuck **move on** to the next task
+5. You are **allowed to use Google** 
+6. TEST YOUR CODE BEFORE YOU SUBMIT IT!
 
 ## Finished?
 
